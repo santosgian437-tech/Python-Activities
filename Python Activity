@@ -1,0 +1,14 @@
+name = "Gian Reign E"
+print(name)
+
+age = 18
+print(age)
+
+digits = 18.01
+print(digits)
+
+happy = True 
+sad = False   
+
+print(happy)
+print(sad) 
